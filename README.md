@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Esteban Vivar</h1>
 <h3 align="center">i´m a software engineering student</h3>
 
-- 🔭 I’m currently studing on **Universidad Internacional SEK**
+- 🔭 I’m currently studing on: **Universidad Internacional SEK**
 
-- 💬 Ask me about **Python, C, Linux, HTML, CSS**
+- 💬 Ask me about: **Python, C, Linux, HTML, CSS**
 
-- 📫 How to reach me **esteban.vivar.moncayo@hotmail.com**
+- 📫 How to reach me: **esteban.vivar.moncayo@hotmail.com**
 
-- ⚡ Fun fact **My goal is to be the best full-stack developer**
+- ⚡ Fun fact: **My goal is to be the best full-stack developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
